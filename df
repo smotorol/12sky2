@@ -1,0 +1,24 @@
+[33mtag v0.2[m
+Tagger: smotorol <smotorol@gmail.com>
+Date:   Fri Dec 13 10:20:04 2019 +0800
+
+Annotated tag test
+
+[33mcommit fbc4ada841ab3efccebda2576b2fc21b2d9d0d2d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v0.2[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: smotorol <smotorol@gmail.com>
+Date:   Fri Dec 13 10:15:21 2019 +0800
+
+    Create README.md
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..dc4067e[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1,5 @@[m
+[32m+[m[32m### README.md[m
+[32m+[m
+[32m+[m[32m- 반갑습니다[m
+[32m+[m[32m- 테스트 중입니다[m
+[32m+[m[32m- README.md 에는 간단한 소개 또는 설명글을 작성하시면 됩니다.[m
+\ No newline at end of file[m
